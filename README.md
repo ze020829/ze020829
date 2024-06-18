@@ -13,7 +13,7 @@ continuously learning, wanting to help the community
   <br/>
   <br/>
 </p>
-
+![](https://github.com/ze020829/ze020829/blob/output/github-contribution-grid-snake-dark.svg)
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%" alt=""/>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
