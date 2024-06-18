@@ -2,8 +2,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>ze</em>. I am a Fullstack 'n' mobile developer... 
-  <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
+    My name is <em>ze</em>.I am a college student, preparing for postgraduate entrance examination and also learning new technologies.
     <br/> (<em>ex</em>)Fulltime student.
       <br/>
 Creating games for fun, composing songs,
