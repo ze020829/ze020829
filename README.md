@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>ze</em>.I am a college student, preparing for postgraduate entrance examination and also learning new technologies.
+    My name is <em>ze</em>.I am a college student, preparing for Graduation Project and also learning new technologies.
     <br/> (<em>ex</em>)Fulltime student.
       <br/>
 The wind, by its strength, sends me to the clouds
